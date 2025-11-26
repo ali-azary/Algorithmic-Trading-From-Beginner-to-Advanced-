@@ -129,7 +129,7 @@ Located in `codes/`:
 
   ```python
   strategy = load_strategy("KeltnerBreakoutStrategy")
-````
+
 
 * **stress_testing.py**
   Stress-testing framework for a chosen strategy:
